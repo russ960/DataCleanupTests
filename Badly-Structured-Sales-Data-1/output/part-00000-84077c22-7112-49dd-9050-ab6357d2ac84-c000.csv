@@ -71,7 +71,6 @@ Consumer,FirstClass,US-2013-167472,678.87
 Consumer,FirstClass,US-2014-108063,34.65
 Consumer,FirstClass,US-2014-133781,37.61
 Consumer,FirstClass,US-2014-148831,348.56
-Consumer,FirstClass,Grand Total,20802.17
 Consumer,SameDay,CA-2011-113047,11.85
 Consumer,SameDay,CA-2011-116239,354.9
 Consumer,SameDay,CA-2011-130428,1142.16
@@ -100,7 +99,6 @@ Consumer,SameDay,US-2013-148803,85.22
 Consumer,SameDay,US-2013-156692,89.32
 Consumer,SameDay,US-2014-120607,195.64
 Consumer,SameDay,US-2014-152492,239.24
-Consumer,SameDay,Grand Total,8132.41
 Consumer,SecondClass,CA-2011-100706,129.44
 Consumer,SecondClass,CA-2011-101266,13.36
 Consumer,SecondClass,CA-2011-109232,545.94
@@ -192,7 +190,6 @@ Consumer,SecondClass,US-2014-153633,2.06
 Consumer,SecondClass,US-2014-158526,1814.68
 Consumer,SecondClass,US-2014-163195,29.16
 Consumer,SecondClass,US-2014-167920,1827.51
-Consumer,SecondClass,Grand Total,49724.25
 Consumer,StandardClass,CA-2011-100895,605.47
 Consumer,StandardClass,CA-2011-104283,616.14
 Consumer,StandardClass,CA-2011-107573,23.47
@@ -446,7 +443,6 @@ Consumer,StandardClass,US-2014-152898,67.9
 Consumer,StandardClass,US-2014-165953,71.1
 Consumer,StandardClass,US-2014-166233,24.0
 Consumer,StandardClass,US-2014-168690,2.81
-Consumer,StandardClass,Grand Total,116922.13
 Corporate,FirstClass,CA-2011-103317,242.55
 Corporate,FirstClass,CA-2011-103989,590.76
 Corporate,FirstClass,CA-2011-106054,12.78
@@ -487,13 +483,11 @@ Corporate,FirstClass,US-2013-140809,56.45
 Corporate,FirstClass,US-2013-153815,368.43
 Corporate,FirstClass,US-2014-128951,1065.84
 Corporate,FirstClass,US-2014-162208,2.9
-Corporate,FirstClass,Grand Total,20792.61
 Corporate,SameDay,CA-2011-158771,158.71
 Corporate,SameDay,CA-2013-130820,630.02
 Corporate,SameDay,CA-2014-161046,839.25
 Corporate,SameDay,US-2012-130519,111.9
 Corporate,SameDay,US-2014-168116,8167.42
-Corporate,SameDay,Grand Total,9907.31
 Corporate,SecondClass,CA-2011-101560,542.34
 Corporate,SecondClass,CA-2011-102988,4251.92
 Corporate,SecondClass,CA-2011-110408,2216.8
@@ -544,7 +538,6 @@ Corporate,SecondClass,US-2013-138408,1319.96
 Corporate,SecondClass,US-2013-161844,82.92
 Corporate,SecondClass,US-2014-109610,701.96
 Corporate,SecondClass,US-2014-162670,1152.87
-Corporate,SecondClass,Grand Total,35243.23
 Corporate,StandardClass,CA-2011-100916,788.86
 Corporate,StandardClass,CA-2011-101770,1.87
 Corporate,StandardClass,CA-2011-102274,865.5
@@ -697,7 +690,6 @@ Corporate,StandardClass,US-2014-126060,198.27
 Corporate,StandardClass,US-2014-128118,76.52
 Corporate,StandardClass,US-2014-135503,14.76
 Corporate,StandardClass,US-2014-166611,68.74
-Corporate,StandardClass,Grand Total,55942.79
 Home Office,FirstClass,CA-2011-132010,389.74
 Home Office,FirstClass,CA-2011-136567,2884.37
 Home Office,FirstClass,CA-2011-140165,405.46
@@ -710,14 +702,12 @@ Home Office,FirstClass,CA-2014-144456,220.06
 Home Office,FirstClass,CA-2014-155292,204.98
 Home Office,FirstClass,US-2013-158309,3.74
 Home Office,FirstClass,US-2014-162558,2437.67
-Home Office,FirstClass,Grand Total,7737.79
 Home Office,SameDay,CA-2011-165806,259.29
 Home Office,SameDay,CA-2012-100769,255.97
 Home Office,SameDay,CA-2013-136126,261.1
 Home Office,SameDay,CA-2014-133095,117.62
 Home Office,SameDay,CA-2014-149146,7.97
 Home Office,SameDay,US-2013-108504,2075.51
-Home Office,SameDay,Grand Total,2977.46
 Home Office,SecondClass,CA-2011-157609,471.92
 Home Office,SecondClass,CA-2011-158274,682.91
 Home Office,SecondClass,CA-2012-115847,61.96
@@ -741,7 +731,6 @@ Home Office,SecondClass,US-2013-135209,62.75
 Home Office,SecondClass,US-2013-168620,823.61
 Home Office,SecondClass,US-2014-148768,71.98
 Home Office,SecondClass,US-2014-159205,732.93
-Home Office,SecondClass,Grand Total,8791.13
 Home Office,StandardClass,CA-2011-100293,91.06
 Home Office,StandardClass,CA-2011-108707,10.37
 Home Office,StandardClass,CA-2011-120670,799.92
@@ -832,4 +821,3 @@ Home Office,StandardClass,US-2014-132031,513.5
 Home Office,StandardClass,US-2014-132297,598.31
 Home Office,StandardClass,US-2014-132675,148.16
 Home Office,StandardClass,US-2014-156083,9.66
-Home Office,StandardClass,Grand Total,54748.63

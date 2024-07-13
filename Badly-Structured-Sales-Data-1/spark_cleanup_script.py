@@ -53,7 +53,7 @@ def process_and_build_table(clean_df):
 																   
             df_ship = df_bu.withColumn("ShipMode", F.lit(ship_mode))
             df_ship = df_ship.na.drop()
-            df_ship = df_ship.select("BusinessUnit", "ShipMode", "OrderID", F.round(ship_mode, 2)).filter(F.col(ship_mode) > 0.00).where(F.isnan(F.col(ship_mode)) == False)
+            df_ship = df_ship.select("BusinessUnit", "ShipMode", "OrderID", F.round(ship_mode, 2)).filter(F.col(ship_mode) > 0.00).filter(df_ship.OrderID != 'Grand Total').where(F.isnan(F.col(ship_mode)) == False)
             
             df_union = df_union.union(df_ship)
     
