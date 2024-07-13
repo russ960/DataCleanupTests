@@ -36,13 +36,7 @@ def import_and_clean_excel(excel_path):
 def process_and_build_table(clean_df):
     business_units = ["Consumer", "Corporate", "Home Office"]
     ship_modes = ["FirstClass", "SameDay", "SecondClass", "StandardClass"]
-
-																	
-																	
-																	
-																 
-						 
-
+    
     schema = StructType([
         StructField("Segment", StringType(), True),
         StructField("ShipMode", StringType(), True),
